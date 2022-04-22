@@ -1,1 +1,14 @@
 # CS230JournalPortfolio
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+  The Gaming Room Client is a small/medium sized game development company aimed at people ages 18-80 who would like to partake in electronic video games.
+What did you do particularly well in developing this documentation?
+  I kept my documentation simple yet thorough.
+What about the process of working through a design document did you find helpful when developing the code?
+  The design document laid out the foundataions for the code. It put the goals, scope, restraits, requirement, and all the other necessary material for developing an application in one place. It was also a living doucment that could change and adapt as needed. Over all it helped a lot when it came down to actually writing the code. 
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+  I would take another look at the development requirements and make my analysis more consise. I think I used too many words and talked too broadly about each of the different devices and operating systems. This made the document more confusing and was unnecessary.
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+  The users needs are the end goal of the proudct. It is super important to get these correct as a failure to do so could result in a big waste of time, money, and effort. Also, if you are not adhering to the clients and user's needs, then you aren't really doing anyone a favor in the end. It's best to measure twice and cut once and that means getting to know your users and client's needs up front.
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+  I found my analysis of software design to be a narrowing exercise. There are so many platforms and operating systems and languages to use to get the job done. But, at the end of the day you will be left developing for only one (occassionally more). With this in mind, we can take the requirements of the client and the applications users and aply the process of elimination. For example, if I know that my end application will be served on the mobile smart phone market in the end, it doesnt make sense to start by developing for a desktop operating system. So cut all of the desktop operating systems from the choice and keep going. After repeating this process a few times with different requirements, you're only left with a handfull to choose from. Then you can do a simple cost-benefit analysis and some fortune telling to pick the right one. I think this is the most practical way to go about it, keeping things simple and effective. 
